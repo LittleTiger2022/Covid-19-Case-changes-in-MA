@@ -1,6 +1,6 @@
 # Covid-case-changes-in-MA-2020
 
-This interactive website is built on pyviz package (panel + bokeh)
+This interactive website is built on python visulization package (panel + bokeh)
 
 The online website is:
 http://covid-19-ma-town.herokuapp.com/covid-19-ma-town
